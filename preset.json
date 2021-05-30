@@ -11,5 +11,10 @@
       "lintOn": ["save", "commit"]
     }
   },
-  "cssPreprocessor": "dart-sass"
+  "cssPreprocessor": "dart-sass",
+  "configs": {
+    "vue": {},
+    "postcss": {},
+    "eslintConfig": {}
+  }
 }
